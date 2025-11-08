@@ -24,8 +24,7 @@ First commit (" **.** " stands for all files, you can specify individual files i
 
     git push -u origin main
 --------------------------------------
- Used to push changes to the **remote** repository on the **main** branch (-u stands for upstream, sets the default  
- remote branch for future pushes)
+ Used to push changes to the **remote** repository on the **main** branch (-u stands for upstream, sets the default remote branch for future pushes)
 
     git clone
 ----------------------------------
