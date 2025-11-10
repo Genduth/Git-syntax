@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 
 Git Commands
 ============
@@ -29,3 +30,6 @@ First commit (" **.** " stands for all files, you can specify individual files i
     git clone
 ----------------------------------
 Used to clone 
+=======
+Test for updating and pulling code
+>>>>>>> upstream/main
